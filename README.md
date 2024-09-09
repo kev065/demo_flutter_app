@@ -1,6 +1,17 @@
 # demo_flutter_app
 
-A new Flutter project.
+To create your first flutter project, follow these steps:
+
+1. `flutter create demo_flutter_app`
+2. `cd demo_flutter_app`
+3. `flutter pub get` - for dependencies
+4. `flutter run` 
+5. Open `main.dart` file and start editing
+
+Useful commands: 
+
+1. `r` - reloads the app
+2. `R` - restarts the app
 
 ## Getting Started
 
